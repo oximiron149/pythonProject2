@@ -1,0 +1,5 @@
+# number = int(input("введите число"))
+# print("единицы", number % 10 )
+# print("десятки",(number //10) % 10)
+# print("сотни", number //100 % 10)
+print("тысяча",number //1000 % 10)
